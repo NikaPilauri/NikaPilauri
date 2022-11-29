@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NikaPilauri
 - 👀 I’m interested in web development,iT
-- 🌱 I’m currently learning css/js
+- 🌱 I’m currently learning front/back
+- 
 - 📫 How to reach me pilauri2004@outlook.com
 - 
 
